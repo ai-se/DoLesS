@@ -2,7 +2,7 @@
 
 This repo contains the reproduction scripts for the study 
 
-**How to Find Small Test Suites for Multi-goal Cyber-Physical Problems (a DoLesS approach)**
+**Faster Multi-Goal Simulation-Based Testing**
 
 ## Usage
 
